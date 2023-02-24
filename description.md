@@ -1,0 +1,1 @@
+We chose the MIT License because of its user friendliness and its simplicity. The user may reuse or modify code without restriction so long as they include a copy of the original license in their distribution. Our code of conduct was chosen because it is the most popular code of conduct and it is applicable to our project.
